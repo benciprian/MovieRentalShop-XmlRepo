@@ -1,0 +1,12 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(•„‚Éÿÿÿÿÿ8ÈÈç·1
+P
+java:S2755`"3Disable access to external entities in XML parsing.(İ‰Ë–8›ØÍÿ·1
+P
+java:S2755o"3Disable access to external entities in XML parsing.(ÅŠ÷á8›ØÍÿ·1
+q
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(º›Íº8ÒØÍÿ·1
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ÒØÍÿ·1
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ÒØÍÿ·1

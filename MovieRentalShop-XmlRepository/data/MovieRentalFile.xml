@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MovieRentalShop>
+    <Movie>
+        <id>1</id>
+        <title>Laguna_Albastra</title>
+        <year>2009</year>
+        <genre>Romantic</genre>
+        <rentalPrice>46.0</rentalPrice>
+    </Movie>
+    <Movie>
+        <id>2</id>
+        <title>ion</title>
+        <year>2008</year>
+        <genre>actiune</genre>
+        <rentalPrice>23.0</rentalPrice>
+    </Movie>
+</MovieRentalShop>
